@@ -92,7 +92,7 @@ INT path planning algorithm based on DFS.
 
 *createRandomTopo(sNum)* can create topologies randomly.
 
-*createRandomTopoWithFixedOdds(oddNum, maxSNum, step)* can create topologies randomly with fixed numbers of odd vertexes.
+*createRandomTopoWithFixedOdds(oddNum, maxSNum, step)* can create topologies randomly with fixed numbers of odd vertices.
 
 # int_path
 
