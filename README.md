@@ -82,7 +82,7 @@ python app.py
 
 You can change `graph`,`hostList` and `paths` in `app.py` to test your own network and you own INT path.
 
-# algorithm
+# DFS-based path planning algorithm
 
 ## DFLSPathPlan.py
 
@@ -94,7 +94,7 @@ INT path planning algorithm based on DFS.
 
 *createRandomTopoWithFixedOdds(oddNum, maxSNum, step)* can create topologies randomly with fixed numbers of odd vertices.
 
-# int_path
+# Euler trail-based path planning algorithm
 
 ## algorithm
 
