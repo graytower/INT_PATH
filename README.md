@@ -1,4 +1,4 @@
-# Our Work "INT-path: Towards Optimal Path Planning for In-band Network-Wide Telemetry"
+#INT-path: Towards Optimal Path Planning for In-band Network-Wide Telemetry
 
 
 Today's data center networks have become mega-scale with increasing deployment of diverse cloud services. With the continuous expansion of network size, fine-grained network monitoring becomes the prerequisite for better network reliability and closed-loop traffic control. In traditional network monitoring, management protocols, such as SNMP, are widely adopted to constantly poll the router/switch CPU for collecting device-internal states every few seconds or minutes. However, due to the frequent interaction between the control plane and the data plane as well as the limited CPU capability, such monitoring mechanism is coarse-grained and involves a large query latency, which cannot scale well in today's high-density data center networks with drastic traffic dynamics.
